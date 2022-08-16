@@ -20,7 +20,7 @@ Build complete! (0.41s)
 Example syntax: 
 
 ======================
-swift run ElementTest 16:10
+cat input.txt | swift run ElementTest 16:10
 ======================
 
 
@@ -43,5 +43,4 @@ Here is your outputs
 20:45 today - /bin/run_me_hourly
 20:00 today - /bin/run_me_every_minute
 19:00 tomorrow - /bin/run_me_sixty_times
-
 ```
